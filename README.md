@@ -1,6 +1,7 @@
 # 🦐 PrawnKing Discord Bot
 
 > Just a random, funsies Discord bot built with Python and the Groq Cloud API. 
+> wait... are you fr reading this?
 
 This is my personal side project! It's a fully functional AI-powered chatbot with conversation memory and some fun utility commands.
 
